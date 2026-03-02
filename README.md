@@ -147,7 +147,7 @@ This separation ensures scalability, maintainability, and extensibility.
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/awanishyadav967/AI-Security-Scanner
 cd <repository-folder>
 
 pip install -r requirements.txt
